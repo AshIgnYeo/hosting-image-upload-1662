@@ -44,6 +44,7 @@ gem "simple_form"
 gem "sassc-rails"
 
 gem "dotenv-rails"
+gem "cloudinary"
 
 # Use Sass to process CSS
 # gem "sassc-rails"
